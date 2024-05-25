@@ -9,3 +9,5 @@ Para iniciar:
 4 - rode o projeto: npm run start:dev
 
 para acessar a documentação das rotas, com o projeto rodando acesse: http://localhost:8080/docs
+
+Rota padrão da API http://localhost:8080
